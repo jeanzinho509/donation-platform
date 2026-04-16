@@ -4,4 +4,12 @@ sqlalchemy
 psycopg2-binary
 python-jose
 passlib[bcrypt]
+bcrypt<4.0.0
 python-dotenv
+alembic
+pytest
+httpx
+pydantic-settings
+python-multipart
+email-validator
+email-validator
